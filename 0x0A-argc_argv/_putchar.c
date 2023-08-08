@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 #include <stdio.h>
 #include "main.h"
 
+=======
+>>>>>>> 9d7ffc43e84f1a960e83acdf9ad24d0f687be96f
 /**
  * _putchar - writes the character c to stdout
  * @c:Ther character to print
